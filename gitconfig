@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = suyash.desha@gmail.com
+	name = Suyash Hemat Desha
